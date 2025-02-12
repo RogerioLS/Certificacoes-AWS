@@ -24,7 +24,7 @@ Mas não tem nenhum privilegio deve ser criado.
 ``Policy`` são regras onde pode se permitir ou bloquear acesso dos grupos ou usuários, por exemplo:
 - Posse criar uma policy que permite somente fazer upload ao s3 e direcionar essa policy para algum grupo ou usuário.
 
-![](images/u-g-r-p-iam.png)
+<img src="images/u-g-r-p-iam.png" style="background-color: white;" />
 
 ``!NUNCA`` devemos fazer nada na conta **ROOT** o ideal é criarmos uma outra conta com acessos especificos.
 
